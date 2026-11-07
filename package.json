@@ -1,0 +1,7 @@
+{
+  "name": "radio-autodj",
+  "version": "1.0.0",
+  "description": "AutoDJ compatível com Shoutcast/ICY",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" }
+}
